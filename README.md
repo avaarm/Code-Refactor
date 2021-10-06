@@ -1,10 +1,13 @@
-## [Code Refactor](https://avaarm.github.io/code-refactor/)
-
+# [Code Refactor](https://avaarm.github.io/code-refactor/)
 
 ## About
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
-The task is to refactor an existing webpage to make it accessible. A developer should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page
+The task is to refactor an existing webpage to make it accessible. Unaware of the world of accessibility, I stumbled upon a tweet from a blind individual who was having trouble accessing menu's on her 
+UberEats account. The realization hit me then that so much of how we design our spaces and applications is based on the assuption of being 
+"able-bodied".
+
+A developer should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page
 
 ## Table of Contents
 
